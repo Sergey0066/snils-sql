@@ -1,4 +1,4 @@
-# SNILS validator
+# SNILS
 
 Проверка контрольного числа СНИЛС на PL/pgSQL.
 
